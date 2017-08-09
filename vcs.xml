@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/vitaliy92v/Arbb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vitaliy92v/RabotaSt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/StateProject/StateProjectMe" />
+    <option name="cloneParentDir" value="$USER_HOME$/GitHub" />
   </component>
 </application>
